@@ -15,5 +15,4 @@
 8. Write query to return the first name, last name, email & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
 9. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands.
 10. Return all the track names that have a song length longer than the average song length. Return the Name and Milliseconds for each track. Order by the song length with the longest songs listed first.
-11. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
-12. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
+   
