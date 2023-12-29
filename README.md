@@ -3,7 +3,6 @@
 * Successfully identified the senior-most employee, analyzed top countries by invoices, pinpointed the city with the highest invoice totals, and determined the best customer based on spending.
 * Skillfully delved into customer behavior by uncovering popular genres across countries and curating a list of Rock music enthusiasts.
 * Conducted an in-depth examination of top rock bands and lengthy tracks, contributing pivotal insights for strategic decision-making. This project showcased my proficiency in SQL and strategic thinking, directly impacting business growth through informed decision-making."
-  
 **Problem Statements -**
 1. User interactive Presentation, can be seen in my repository
 2. Who is the senior most employee, find name and job title?
